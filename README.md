@@ -9,7 +9,7 @@
 
 ### 1. Download the container
 
-First, download the `STshiny.sif` container file to your local computer.
+First, download the [STshiny.sif](https://drive.google.com/file/d/1ft0aPGPHieA3wpvTImTaq6aWkAgeXpoH/view?usp=sharing) container file to your local computer.
 
 ### 2. Start the container
 
